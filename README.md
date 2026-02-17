@@ -1,2 +1,2 @@
-# OTA_Server_kontoret
-En python server for å oppdater ESP på kontoret med ny kode.
+# OTA Server kontoret
+En python server for å sende ut oppdatert kode til ESP32 på kontoret.
